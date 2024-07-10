@@ -1,2 +1,2 @@
 # odoo
-apuntes de odoo
+ apuntes de odoo
